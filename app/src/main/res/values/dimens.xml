@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //dp
+    <dimen name="positive_3dp">3dp</dimen>
+    <dimen name="positive_4dp">4dp</dimen>
+    <dimen name="positive_8dp">8dp</dimen>
+    <dimen name="positive_12dp">12dp</dimen>
+    <dimen name="positive_14dp">14dp</dimen>
+
+    //sp
+    <dimen name="positive_4sp">4sp</dimen>
+    <dimen name="positive_6sp">6sp</dimen>
+    <dimen name="positive_8sp">8sp</dimen>
+    <dimen name="positive_12sp">12sp</dimen>
+    <dimen name="positive_14sp">14sp</dimen>
+</resources>
